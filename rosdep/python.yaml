@@ -280,6 +280,10 @@ opcua-pip:
   ubuntu:
     pip:
       packages: [opcua]
+openvino-pip:
+  ubuntu:
+    pip:
+      packages: [openvino]
 paramiko:
   alpine: [py-paramiko]
   arch: [python2-paramiko]
