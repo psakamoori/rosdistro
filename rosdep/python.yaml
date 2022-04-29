@@ -280,7 +280,7 @@ opcua-pip:
   ubuntu:
     pip:
       packages: [opcua]
-openvino-pip:
+python3-openvino-pip:
   ubuntu:
     pip:
       packages: [openvino]
